@@ -26,7 +26,7 @@
 - **[Eagle Ride Sharing]**: [Share ride, share fuel costs, travel safer, find new friends] ([https://github.com/regostar/eagle_ride_sharing](#))
 
 ## Connect with Me
-- [LinkedIn]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/renugopal-siva/))
+- [LinkedIn - https://www.linkedin.com/in/renugopal-siva/ ]([https://www.linkedin.com/in/renugopal-siva/))
 
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=regostar&show_icons=true)
