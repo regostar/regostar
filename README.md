@@ -17,16 +17,16 @@
 
 
 ## My Contributions to Public Projects:-
-- **[Fiduswriter]**: [Fidus Writer is an online collaborative editor especially made for academics who need to use citations and/or formulas. ] ([https://github.com/regostar/fiduswriter](#))
+- **[Fiduswriter]**: [Fidus Writer is an online collaborative editor especially made for academics who need to use citations and/or formulas. ] ([https://github.com/regostar/fiduswriter](https://github.com/regostar/fiduswriter))
 
 
 ## My Projects
-- **[Exploratory Data Analysis]**: [Short Description] ([https://github.com/regostar/us_accidents_eda](#))
-- **[Face Recognition]**: [Face Detection using Viola Jones Algorithm Face Recognize using PCA Algorithm] ([https://github.com/regostar/facerecognize](#))
-- **[Eagle Ride Sharing]**: [Share ride, share fuel costs, travel safer, find new friends] ([https://github.com/regostar/eagle_ride_sharing](#))
+- **[Exploratory Data Analysis]**: [Short Description] ([https://github.com/regostar/us_accidents_eda](https://github.com/regostar/us_accidents_eda))
+- **[Face Recognition]**: [Face Detection using Viola Jones Algorithm Face Recognize using PCA Algorithm] ([https://github.com/regostar/facerecognize](https://github.com/regostar/facerecognize))
+- **[Eagle Ride Sharing]**: [Share ride, share fuel costs, travel safer, find new friends] ([https://github.com/regostar/eagle_ride_sharing](https://github.com/regostar/eagle_ride_sharing))
 
 ## Connect with Me
-- [LinkedIn - https://www.linkedin.com/in/renugopal-siva/ ]([https://www.linkedin.com/in/renugopal-siva/))
+- [LinkedIn - https://www.linkedin.com/in/renugopal-siva/]([])
 
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=regostar&show_icons=true)
