@@ -21,11 +21,12 @@
 
 
 ## My Projects
-- **[Face Recognition]**: [Short Description] ([Repo Link](#))
-- **[Another Project Name]**: [Short Description] ([Repo Link](#))
+- **[Exploratory Data Analysis]**: [Short Description] ([https://github.com/regostar/us_accidents_eda](#))
+- **[Face Recognition]**: [Face Detection using Viola Jones Algorithm Face Recognize using PCA Algorithm] ([https://github.com/regostar/facerecognize](#))
+- **[Eagle Ride Sharing]**: [Share ride, share fuel costs, travel safer, find new friends] ([https://github.com/regostar/eagle_ride_sharing](#))
 
 ## Connect with Me
 - [LinkedIn]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/renugopal-siva/))
 
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=regostar&show_icons=true)
