@@ -15,8 +15,13 @@
 - 🛠️ Tools & Technologies: `Django`, `Node.js`, `Docker`, `Git`, `FastAPI`, `jQuery`, `Postgresql`, `MongoDB`, `MYSQL`, `Cassandra`, `PySpark`
 - 📈 Data Analysis: `Pandas`, `NumPy`, `Matplotlib`, `Tensorflow`, `OpenCV`, `Scikit-Learn`
 
+
+## My Contributions to Public Projects:-
+- **[Fiduswriter]**: [Fidus Writer is an online collaborative editor especially made for academics who need to use citations and/or formulas. ] ([https://github.com/regostar/fiduswriter](#))
+
+
 ## My Projects
-- **[Project Name]**: [Short Description] ([Repo Link](#))
+- **[Face Recognition]**: [Short Description] ([Repo Link](#))
 - **[Another Project Name]**: [Short Description] ([Repo Link](#))
 
 ## Connect with Me
