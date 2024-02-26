@@ -2,10 +2,10 @@
 
 ## About Me
 - 🔭 I’m currently working on Pyspark
-- 🌱 I’m currently learning Network Security and Linux
+- 🌱 I’m currently learning Deep Learning and Linux
 - 👯 I’m looking to collaborate on LLM projects
-- 🤔 I’m looking for help with creating custom GPT engines trained on specific domain with multitude of data
-- 💬 Ask me about system design, machine learning, backend engineering.
+- 🤔 I’m looking for help with creating custom GPT engines trained on specific domains with multitude of data
+- 💬 Ask me about system design, machine learning, and backend engineering.
 - 📫 How to reach me: sivaprakasamrenugopal@my.unt.edu
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I like to dream while sleeping :P
