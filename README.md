@@ -21,6 +21,7 @@
 
 
 ## My Projects
+- **[Eventique]**: [AI assisted Event Management Suite] ([https://github.com/regostar/eventique](https://github.com/regostar/eventique))
 - **[Exploratory Data Analysis]**: [Short Description] ([https://github.com/regostar/us_accidents_eda](https://github.com/regostar/us_accidents_eda))
 - **[Face Recognition]**: [Face Detection using Viola Jones Algorithm Face Recognize using PCA Algorithm] ([https://github.com/regostar/facerecognize](https://github.com/regostar/facerecognize))
 - **[Eagle Ride Sharing]**: [Share ride, share fuel costs, travel safer, find new friends] ([https://github.com/regostar/eagle_ride_sharing](https://github.com/regostar/eagle_ride_sharing))
