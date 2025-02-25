@@ -26,6 +26,7 @@ https://regostar.github.io/developerFolio/
 - **[Eventique]**: [AI assisted Event Management Suite] ([https://github.com/regostar/eventique](https://github.com/regostar/eventique))
 - **[Exploratory Data Analysis]**: [Short Description] ([https://github.com/regostar/us_accidents_eda](https://github.com/regostar/us_accidents_eda))
 - **[Face Recognition]**: [Face Detection using Viola Jones Algorithm Face Recognize using PCA Algorithm] ([https://github.com/regostar/facerecognize](https://github.com/regostar/facerecognize))
+- **[Financial Fraud Detection and Explainability]**: [Short Description] ([https://github.com/regostar/hack_unt_financial_fraud](https://github.com/regostar/hack_unt_financial_fraud))
 - **[Eagle Ride Sharing]**: [Share ride, share fuel costs, travel safer, find new friends] ([https://github.com/regostar/eagle_ride_sharing](https://github.com/regostar/eagle_ride_sharing))
 
 ## Connect with Me
