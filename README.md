@@ -24,9 +24,9 @@ https://regostar.github.io/developerFolio/
 
 ## My Projects
 - **[Eventique]**: [AI assisted Event Management Suite] ([https://github.com/regostar/eventique](https://github.com/regostar/eventique))
-- **[Exploratory Data Analysis]**: [Short Description] ([https://github.com/regostar/us_accidents_eda](https://github.com/regostar/us_accidents_eda))
+- **[Exploratory Data Analysis]**: [The us_accidents_eda project is an exploratory data analysis (EDA) of a comprehensive car accident dataset covering nearly all U.S. states. ] ([https://github.com/regostar/us_accidents_eda](https://github.com/regostar/us_accidents_eda))
 - **[Face Recognition]**: [Face Detection using Viola Jones Algorithm Face Recognize using PCA Algorithm] ([https://github.com/regostar/facerecognize](https://github.com/regostar/facerecognize))
-- **[Financial Fraud Detection and Explainability]**: [Short Description] ([https://github.com/regostar/hack_unt_financial_fraud](https://github.com/regostar/hack_unt_financial_fraud))
+- **[Financial Fraud Detection and Explainability]**: [An AI-powered fraud detection system that uses LLMs to predict and prevent credit card fraud in real-time] ([https://github.com/regostar/hack_unt_financial_fraud](https://github.com/regostar/hack_unt_financial_fraud))
 - **[Eagle Ride Sharing]**: [Share ride, share fuel costs, travel safer, find new friends] ([https://github.com/regostar/eagle_ride_sharing](https://github.com/regostar/eagle_ride_sharing))
 
 ## Connect with Me
