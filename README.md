@@ -3,20 +3,15 @@
 https://regostar.github.io/developerFolio/
 
 ## About Me
-- 🔭 I’m currently working on Pyspark
-- 🌱 I’m currently learning Deep Learning and Linux
-- 👯 I’m looking to collaborate on LLM projects
-- 🤔 I’m looking for help with creating custom GPT engines trained on specific domains with multitude of data
-- 💬 Ask me about system design, machine learning, and backend engineering.
-- 📫 How to reach me: sivaprakasamrenugopal@my.unt.edu
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: I like to dream while sleeping :P
+- 🔭 Expert in Python, Django, FastAPI, Node.js, Javascript
+- 🌱  Love AI, have worked on RAG, LLMS, Agentic AI Workflow, Langchain
+- ⚡ Fun fact: I like to dream while sleeping :P (jk)
 
 ## Skills
 - 🚀 Languages: `Python`, `JavaScript`, `C++`, `Java`, `SQL`,
 - 🛠️ Tools & Technologies: `Django`, `Node.js`, `Docker`, `Git`, `FastAPI`, `jQuery`, `Postgresql`, `MongoDB`, `MYSQL`, `Cassandra`, `PySpark`
 - 📈 Data Analysis: `Pandas`, `NumPy`, `Matplotlib`, `Tensorflow`, `OpenCV`, `Scikit-Learn`
-
+- ⚡ AI - `llama`, `OpenAI o1, o3-mini, 4o`, `Gemini-Pro`, `Deepseek`, `Claude`
 
 ## My Contributions to Public Projects:-
 - **[Fiduswriter]**: [Fidus Writer is an online collaborative editor especially made for academics who need to use citations and/or formulas. ] ([https://github.com/regostar/fiduswriter](https://github.com/regostar/fiduswriter))
@@ -27,6 +22,7 @@ https://regostar.github.io/developerFolio/
 - **[Exploratory Data Analysis]**: [The us_accidents_eda project is an exploratory data analysis (EDA) of a comprehensive car accident dataset covering nearly all U.S. states. ] ([https://github.com/regostar/us_accidents_eda](https://github.com/regostar/us_accidents_eda))
 - **[Face Recognition]**: [Face Detection using Viola Jones Algorithm Face Recognize using PCA Algorithm] ([https://github.com/regostar/facerecognize](https://github.com/regostar/facerecognize))
 - **[Financial Fraud Detection and Explainability]**: [An AI-powered fraud detection system that uses LLMs to predict and prevent credit card fraud in real-time] ([https://github.com/regostar/hack_unt_financial_fraud](https://github.com/regostar/hack_unt_financial_fraud))
+- **[Financial Forecast]**: [Clairvoyant v2.0 is a Streamlit-based web application for viewing and forecasting stock prices. It allows users to visualize historical stock data and make future predictions using Facebook's Prophet model, enabling more informed investment and trading decisions. It also uses a complex LSTM model to predict stock prices] ([https://github.com/regostar/streamlit_stocks](https://github.com/regostar/streamlit_stocks))
 - **[Eagle Ride Sharing]**: [Share ride, share fuel costs, travel safer, find new friends] ([https://github.com/regostar/eagle_ride_sharing](https://github.com/regostar/eagle_ride_sharing))
 
 ## Connect with Me
