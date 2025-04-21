@@ -1,6 +1,18 @@
-# Hi there, I'm Renugopal Sivaprakasam 👋
+# 👋 Hi, I'm Renugopal Sivaprakasam
+
+🚀 Software Engineer | AI/ML Specialist | Product Builder  
+🔍 Passionate about solving real-world problems with scalable, intelligent systems
 
 https://regostar.github.io/developerFolio/
+
+---
+
+## 🌟 Summary
+
+I'm a full-stack software engineer with 5+ years of experience in fast-paced startups, where I’ve led 0-to-1 product development and scaled systems powering multi-million-dollar revenue. Currently pursuing my Master’s in Computer Science at the University of North Texas, I specialize in building AI-powered applications with Python, FastAPI, and cloud-native technologies. From deploying microservices on GCP/AWS to fine-tuning LLMs for RAG and agentic workflows, I enjoy crafting solutions that are not just functional, but impactful.
+
+---
+
 
 ## About Me
 - 🔭 Expert in Python, Django, FastAPI, Node.js, Javascript
@@ -8,7 +20,7 @@ https://regostar.github.io/developerFolio/
 - ⚡ Fun fact: I like to dream while sleeping :P (jk)
 
 ## Skills
-- 🚀 Languages: `Python`, `JavaScript`, `C++`, `Java`, `SQL`,
+- 🚀 Languages: `Python`, `JavaScript`, `C++`, `Java`, `SQL`
 - 🛠️ Tools & Technologies: `Django`, `Node.js`, `Docker`, `Git`, `FastAPI`, `jQuery`, `Postgresql`, `MongoDB`, `MYSQL`, `Cassandra`, `PySpark`
 - 📈 Data Analysis: `Pandas`, `NumPy`, `Matplotlib`, `Tensorflow`, `OpenCV`, `Scikit-Learn`
 - ⚡ AI - `llama`, `OpenAI o1, o3-mini, 4o`, `Gemini-Pro`, `Deepseek`, `Claude`
