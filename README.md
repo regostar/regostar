@@ -19,42 +19,61 @@ I'm a full-stack software engineer with 5+ years of experience in fast-paced sta
 - 🌱  Love AI, have worked on RAG, LLMS, Agentic AI Workflow, Langchain
 - ⚡ Fun fact: I like to dream while sleeping :P (jk)
 
-## Skills
-- 🚀 Languages: `Python`, `JavaScript`, `C++`, `Java`, `SQL`
-- 🛠️ Tools & Technologies: `Django`, `Node.js`, `Docker`, `Git`, `FastAPI`, `jQuery`, `Postgresql`, `MongoDB`, `MYSQL`, `Cassandra`, `PySpark`
-- 📈 Data Analysis: `Pandas`, `NumPy`, `Matplotlib`, `Tensorflow`, `OpenCV`, `Scikit-Learn`
-- ⚡ AI - `llama`, `OpenAI o1, o3-mini, 4o`, `Gemini-Pro`, `Deepseek`, `Claude`
 
 ## My Contributions to Public Projects:-
 - **[Fiduswriter]**: [Fidus Writer is an online collaborative editor especially made for academics who need to use citations and/or formulas. ] ([https://github.com/regostar/fiduswriter](https://github.com/regostar/fiduswriter))
 
 
-## My Projects
+## 🚀 My Projects
 
-- **[Eventique](https://github.com/regostar/eventique)**  
-  Built an AI-powered event planning platform using LLMs (Gemini) to optimize vendor selection and scheduling. Addressed inefficiencies in event coordination by developing an intelligent recommendation engine with Hugging Face models. Utilized Python, Django, React, and GCP, improving event planning efficiency and personalization.  
-  *Tech Stack:* Python, Django, React, GCP, Hugging Face, Gemini LLM
+### 🤖 [Helix 2.0 – Agentic AI for Recruiting Automation](https://github.com/regostar/agents_conversation)
+Built an interactive, full-stack recruiting assistant that generates and refines personalized outreach sequences via real-time user conversations. Utilized LangChain’s agent framework with OpenAI GPT-4 to design an autonomous AI system capable of decision-making, memory management, and iterative sequence refinement. Integrated Flask + Socket.IO backend with a responsive React/TypeScript frontend and PostgreSQL for data persistence.  
 
-- **[RAG Restaurant Reviews](https://github.com/regostar/RAG_restaurant_reviews)**  
-  Built a RAG-based semantic search system for restaurant reviews using Sentence-BERT embeddings and Qdrant vector database for efficient similarity search. Integrated LLaMA-3.2-3B-Instruct for local LLM inference and context-aware query understanding. Delivered personalized recommendations, highlighting expertise in RAG and vector databases.  
-  *Tech Stack:* Python, Sentence-BERT, Qdrant, LLaMA-3.2-3B-Instruct
-  
-- **[Financial Forecasting & Stock Price Prediction](https://github.com/regostar/streamlit_stocks)**  
-  Developed a Streamlit-based web application for stock price forecasting using Facebook's Prophet model and LSTM neural networks. Designed secure API integration, data pipeline automation, historical data visualization, and future trend prediction to support informed investment decisions. Optimized hyperparameter tuning and deployed the model on the cloud for scalable financial forecasting.  
-  *Tech Stack:* Python, Streamlit, Prophet, LSTM, Cloud Deployment
+**Tech Stack:** Python, LangChain, OpenAI GPT-4, Flask, Socket.IO, React, TypeScript, PostgreSQL, SQLAlchemy
 
-- **[Financial Fraud Detection and Explainability](https://github.com/regostar/hack_unt_financial_fraud)**  
-  Developed an AI-powered fraud detection system leveraging large language models (LLMs) and machine learning algorithms to identify and prevent real-time credit card fraud. Designed and optimized high-performance, low-latency fraud detection pipelines with explainability techniques to enhance regulatory compliance.  
-  *Tech Stack:* Python, LLMs, Machine Learning, Explainability Techniques
+---
 
+### 🎉 [Eventique](https://github.com/regostar/eventique)
+Developed an AI-powered event planning platform using LLMs (Gemini) to optimize vendor selection and scheduling. Addressed inefficiencies in event coordination by creating an intelligent recommendation engine with Hugging Face models. Utilized Python, Django, React, and GCP to enhance event planning efficiency and personalization.  
 
+**Tech Stack:** Python, Django, React, GCP, Hugging Face, Gemini LLM
 
-- **[Eventique]**: [AI assisted Event Management Suite] ([https://github.com/regostar/eventique](https://github.com/regostar/eventique))
-- **[Exploratory Data Analysis]**: [The us_accidents_eda project is an exploratory data analysis (EDA) of a comprehensive car accident dataset covering nearly all U.S. states. ] ([https://github.com/regostar/us_accidents_eda](https://github.com/regostar/us_accidents_eda))
-- **[Face Recognition]**: [Face Detection using Viola Jones Algorithm Face Recognize using PCA Algorithm] ([https://github.com/regostar/facerecognize](https://github.com/regostar/facerecognize))
-- **[Financial Fraud Detection and Explainability]**: [An AI-powered fraud detection system that uses LLMs to predict and prevent credit card fraud in real-time] ([https://github.com/regostar/hack_unt_financial_fraud](https://github.com/regostar/hack_unt_financial_fraud))
-- **[Financial Forecast]**: [Clairvoyant v2.0 is a Streamlit-based web application for viewing and forecasting stock prices. It allows users to visualize historical stock data and make future predictions using Facebook's Prophet model, enabling more informed investment and trading decisions. It also uses a complex LSTM model to predict stock prices] ([https://github.com/regostar/streamlit_stocks](https://github.com/regostar/streamlit_stocks))
-- **[Eagle Ride Sharing]**: [Share ride, share fuel costs, travel safer, find new friends] ([https://github.com/regostar/eagle_ride_sharing](https://github.com/regostar/eagle_ride_sharing))
+---
+
+### 🍽️ [RAG Restaurant Reviews](https://github.com/regostar/RAG_restaurant_reviews)
+Implemented a RAG-based semantic search system for restaurant reviews using Sentence-BERT embeddings and Qdrant vector database for efficient similarity search. Integrated LLaMA-3.2-3B-Instruct for local LLM inference and context-aware query understanding, delivering personalized recommendations.  
+
+**Tech Stack:** Python, Sentence-BERT, Qdrant, LLaMA-3.2-3B-Instruct
+
+---
+
+### 📈 [Financial Forecasting & Stock Price Prediction](https://github.com/regostar/streamlit_stocks)
+Developed a Streamlit-based web application for stock price forecasting using Facebook's Prophet model and LSTM neural networks. Designed secure API integration, automated data pipelines, and visualized historical data to support informed investment decisions. Optimized hyperparameter tuning and deployed the model on the cloud for scalable financial forecasting.  
+
+**Tech Stack:** Python, Streamlit, Prophet, LSTM, Cloud Deployment
+
+---
+
+### 🛡️ [Financial Fraud Detection and Explainability](https://github.com/regostar/hack_unt_financial_fraud)
+Created an AI-powered fraud detection system leveraging large language models (LLMs) and machine learning algorithms to identify and prevent real-time credit card fraud. Designed and optimized high-performance, low-latency fraud detection pipelines with explainability techniques to enhance regulatory compliance.  
+
+**Tech Stack:** Python, LLMs, Machine Learning, Explainability Techniques
+
+---
+
+### 🗳️ [Blockchain Voting DApp](https://github.com/regostar/blockchain_voter2)
+Built a decentralized voting system enabling secure voter registration, election creation, and result computation using Ethereum smart contracts and a Web3-integrated frontend. Leveraged modern smart contract development practices with Solidity and Truffle, ensuring transparency, immutability, and trustless execution on the Ethereum Virtual Machine (EVM). 
+
+**Tech Stack:** Solidity, Truffle, React.js, Web3.js, Ganache, JavaScript
+
+---
+
+### 🛣️ [Big Data Analytics Pipeline – US Accidents](https://github.com/regostar/us_accidents_eda)
+Engineered a scalable big data pipeline to analyze US traffic accident datasets using distributed processing and cloud-native tools. Designed a high-level architecture using Google Cloud Dataproc, HDFS, and Google Cloud Storage for data ingestion and storage. Employed PySpark and Hive for large-scale data processing, followed by Solr/Lucene for search and indexing. Built interactive visualizations using Matplotlib and Plotly for real-time insights.  
+
+**Tech Stack:** Google Cloud Platform (GCS, Dataproc), HDFS, PySpark, Hive, Solr, Lucene, Matplotlib, Plotly
+
+---
 
 ## Connect with Me
 - [LinkedIn - https://www.linkedin.com/in/renugopal-siva/]([])
