@@ -32,7 +32,7 @@ I'm a full-stack software engineer with 5+ years of experience in fast-paced sta
 
 ## 🚀 My Projects
 
-### 🤖 [Helix 2.0 – Agentic AI for Recruiting Automation](https://github.com/regostar/agents_conversation)
+### 🤖 [Helix 2.0 – Agentic AI for Recruiting Automation](https://github.com/regostar/Helix_2.0)
 Built an interactive, full-stack recruiting assistant that generates and refines personalized outreach sequences via real-time user conversations. Utilized LangChain’s agent framework with OpenAI GPT-4 to design an autonomous AI system capable of decision-making, memory management, and iterative sequence refinement. Integrated Flask + Socket.IO backend with a responsive React/TypeScript frontend and PostgreSQL for data persistence.  
 
 **Tech Stack:** Python, LangChain, OpenAI GPT-4, Flask, Socket.IO, React, TypeScript, PostgreSQL, SQLAlchemy
