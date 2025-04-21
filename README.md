@@ -30,6 +30,25 @@ I'm a full-stack software engineer with 5+ years of experience in fast-paced sta
 
 
 ## My Projects
+
+- **[Eventique](https://github.com/regostar/eventique)**  
+  Built an AI-powered event planning platform using LLMs (Gemini) to optimize vendor selection and scheduling. Addressed inefficiencies in event coordination by developing an intelligent recommendation engine with Hugging Face models. Utilized Python, Django, React, and GCP, improving event planning efficiency and personalization.  
+  *Tech Stack:* Python, Django, React, GCP, Hugging Face, Gemini LLM
+
+- **[RAG Restaurant Reviews](https://github.com/regostar/RAG_restaurant_reviews)**  
+  Built a RAG-based semantic search system for restaurant reviews using Sentence-BERT embeddings and Qdrant vector database for efficient similarity search. Integrated LLaMA-3.2-3B-Instruct for local LLM inference and context-aware query understanding. Delivered personalized recommendations, highlighting expertise in RAG and vector databases.  
+  *Tech Stack:* Python, Sentence-BERT, Qdrant, LLaMA-3.2-3B-Instruct
+  
+- **[Financial Forecasting & Stock Price Prediction](https://github.com/regostar/streamlit_stocks)**  
+  Developed a Streamlit-based web application for stock price forecasting using Facebook's Prophet model and LSTM neural networks. Designed secure API integration, data pipeline automation, historical data visualization, and future trend prediction to support informed investment decisions. Optimized hyperparameter tuning and deployed the model on the cloud for scalable financial forecasting.  
+  *Tech Stack:* Python, Streamlit, Prophet, LSTM, Cloud Deployment
+
+- **[Financial Fraud Detection and Explainability](https://github.com/regostar/hack_unt_financial_fraud)**  
+  Developed an AI-powered fraud detection system leveraging large language models (LLMs) and machine learning algorithms to identify and prevent real-time credit card fraud. Designed and optimized high-performance, low-latency fraud detection pipelines with explainability techniques to enhance regulatory compliance.  
+  *Tech Stack:* Python, LLMs, Machine Learning, Explainability Techniques
+
+
+
 - **[Eventique]**: [AI assisted Event Management Suite] ([https://github.com/regostar/eventique](https://github.com/regostar/eventique))
 - **[Exploratory Data Analysis]**: [The us_accidents_eda project is an exploratory data analysis (EDA) of a comprehensive car accident dataset covering nearly all U.S. states. ] ([https://github.com/regostar/us_accidents_eda](https://github.com/regostar/us_accidents_eda))
 - **[Face Recognition]**: [Face Detection using Viola Jones Algorithm Face Recognize using PCA Algorithm] ([https://github.com/regostar/facerecognize](https://github.com/regostar/facerecognize))
