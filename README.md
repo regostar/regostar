@@ -18,7 +18,6 @@ I'm a full-stack software engineer with 5+ years of experience in fast-paced sta
 - 🌱  Love AI, have worked on RAG, LLMS, Agentic AI Workflow, Langchain
 - ⚡ Fun fact: I like to dream while sleeping :P (jk)
 
---
 
 ## 🌍 My Contributions to Public Projects
 
